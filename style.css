@@ -1,0 +1,41 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+
+.text-bg-dark {
+    color: #fff!important;
+    
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(4,4,41,1) 35%, rgba(1,1,10,1) 100%);
+    
+}
+
+#first-section{
+    
+    background: radial-gradient(circle, rgba(19,16,120,1) 0%, rgba(11,22,70,1) 100%);
+    color:#fff;
+}
+#pricing-section button{
+    background-color: #0f0b63;
+    outline-color: #0f0b63;
+
+}
+.pb-2{
+    color: #000;
+}
+
+.form-section{
+    background-color: #0f0b63;
+    color: #fff;
+
+}
+.form-section .text-color{
+    color: #000;
+
+}
+#footer-section{
+    
+}
+
